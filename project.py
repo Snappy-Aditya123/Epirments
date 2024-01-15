@@ -57,9 +57,6 @@ class self_service_till(Lane):
 
 
 
-
-import random
-
 class Basket:
     def __init__(self, time_frame) -> None:
         self.time_frame = time_frame
